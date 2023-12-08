@@ -12,7 +12,10 @@ I'm Abdullah Khokhar, a software developer with over 6 months of experience in w
 -  Courses: Full Stack Development
 # Contact 📫
 - Email : Abdullahkhokharop2@gmail.com
-- Github: [Github](https://github.com/AbdullahThePassionate) 
+- Github: [Github](https://github.com/AbdullahThePassionate)
+- Linkedin: [Linkedin](https://www.linkedin.com/in/abdullah-khokhar-209543299/
+) 
+
 
 <!--
 **AbdullahThePassionate/AbdullahThePassionate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
