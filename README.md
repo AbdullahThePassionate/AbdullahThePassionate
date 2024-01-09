@@ -30,8 +30,18 @@ I'm Abdullah Khokhar, a software developer with over 6 months of experience in w
 ![](https://github-contributor-stats.vercel.app/api?username=AbdullahThePassionate&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AbdullahThePassionate&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ahmed_etco" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-r-bb25ba102" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abdullah.khokhar.520357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmed raheem" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abdullah._.khokhar3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmedraheem91" height="30" width="40" /></a>
+</p>
 <!--
+
+
 **AbdullahThePassionate/AbdullahThePassionate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
